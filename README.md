@@ -1,4 +1,4 @@
-Video-Game Blog
+# Video-Game Blog
 
 MERN
 
